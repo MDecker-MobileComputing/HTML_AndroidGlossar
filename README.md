@@ -1,7 +1,7 @@
 # Android-Glossar mit *jQuery Mobile (jQM)*
 
-This repository contains a single HTML file which represents
-a simple glossary of terms from the area of Android programming.
+This repository contains a single HTML file in folder [docs/](docs/ ) which 
+represents a simple glossary of terms from the area of Android programming.
 In the HTML file we use the front-end framework 
 [jQuery Mobile (jQM)](http://jquerymobile.com) to realize
 a *look & feel* similar to a mobile app with several pages or screens.
