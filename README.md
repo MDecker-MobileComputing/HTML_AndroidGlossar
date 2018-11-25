@@ -5,6 +5,8 @@ represents a simple glossary of terms from the area of Android programming.
 In the HTML file we use the front-end framework 
 [jQuery Mobile (jQM)](http://jquerymobile.com) to realize
 a *look & feel* similar to a mobile app with several pages or screens.
+This HTML file could be put into a native app containter created by
+[Apache Cordova](https://cordova.apache.org/) to get a so called *hybrid app* for Android and/or iOS.
 
 <br>
 
