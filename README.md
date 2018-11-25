@@ -1,17 +1,15 @@
-# Blinker-Effekt mit generischem Data-Attribut in HTML
+# Android-Glossar mit *jQuery Mobile*
 
-This repository demonstrates how the *Generic Data Attribute*
-(`data-*`) can be used in HTML files in conjunction with JavaScript.
-In the HTML file some tags have the attribute `data-mide-effekt="blinker"`.
-These tags will "blink" (periodic switching on and off of yellow background color).
-The blink effect is realized using JavaScript and [jQuery](http://jquery.com/).
+This repository contains a single HTML file which represents
+a simple glossary of terms from the area of Android programming.
+
 
 <br>
 
 ----
 ## Direct view
 
-The HTML file with the blink effekt in this repository can be viewed at [this URL](https://mdecker-mobilecomputing.github.io/HTML_BlinkEffekt/index.html).
+The HTML file in this repository can be viewed at [this URL](https://mdecker-mobilecomputing.github.io/HTML_AndroidGlossar/index.html).
 
 <br>
 
