@@ -22,3 +22,5 @@ The HTML file in this repository can be viewed directly at [this URL](https://md
 
 See the [LICENSE file](LICENSE.md) for license rights and limitations (BSD 3-Clause License)
 for the files in this repository.
+
+The application uses [jQuery](http://jquery.com/) and [jQuery Mobile (jQM)](http://jquerymobile.com), which both are licensed under the terms of the [MIT License](https://jquery.org/license/).
